@@ -11,7 +11,7 @@ setup(
     author='Chris Lasher',
     author_email='chris.lasher@gmail.com',
     # third-party packages
-    install_requires=[],
+    install_requires=['butterfield'],
     extras_require={
         'dev': ['pytest'],
         'test': ['pytest'],
